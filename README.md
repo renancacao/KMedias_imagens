@@ -6,9 +6,9 @@ EP de Inteligência Artificial.
 Universidade de São Paulo.
 EACH - SI
 
-Gustavo Soriano
-Renan Souza
-Renato Calabrezi
+Gustavo Soriano gustavo.leandro@usp.br
+Renan Souza renan.cacao.souza@usp.br
+Renato Calabreze renato.calabreze@usp.br
 
 Esse programa utiliza o algoritmo k-means para reduzir(ou clusterizar) as cores dos pxels de uma imagem.
 
